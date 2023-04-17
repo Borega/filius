@@ -1,4 +1,4 @@
-# Werkomgeving Filius
+# Filius im Browser für IPads etc.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Borega/filius)
 
