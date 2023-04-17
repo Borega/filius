@@ -2,17 +2,16 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/filius)
 
-Met deze repository kun je in GitPod aan de slag in Filius, het programma om te leren hoe computers met elkaar communiceren.
+Mit diesem Repository können Sie in GitPod mit Filius loslegen, dem Programm zum Lernen, wie Computer miteinander kommunizieren.
 
-Voer de volgende stappen uit om te beginnen:
-- Klik hierboven op de knop 'Open in GitPod'.
-- Wanneer je workspace is opgestart, zie je in een deel van je venster een bureaublad van een computer. Klik op het knopje om dit gedeelte in een los venster te openen (= klik op vierkantje met pijltje eruit), of ga in de meest linkse horizontale balk naar 'Remote explorer' en open poort 6080 in een browservenster (= klik op wereldbolletje).
-- Dubbelklik in dat computerscherm op het rode Filius icoontje linksboven op het bureaublad. Of ga in dat computerscherm naar het menu _Applications_ links boven in het scherm en kies _Education -> Filius_. Het programma Filius wordt nu gestart.
-- Wil Filiusnetwerken opslaan voor later gebruik? Doe dit in de map 'Filius bestanden'.
-- Zorg dat je workspace in je dashboard van GitPod *pint*, anders raak je al je bestanden na twee weken inactiviteit kwijt.
+Befolgen Sie diese Schritte, um loszulegen:
 
+     Klicken Sie oben auf die Schaltfläche „In GitPod öffnen“.
+     Wenn Ihr Arbeitsbereich gestartet wurde, sehen Sie einen Computerdesktop in einem Teil Ihres Fensters. Klicken Sie auf die Schaltfläche, um diesen Abschnitt in einem separaten Fenster zu öffnen (= klicken Sie auf das Quadrat mit dem Pfeil nach außen), oder gehen Sie zu „Remote Explorer“ in der horizontalen Leiste ganz links und öffnen Sie Port 6080 in einem Browserfenster (= klicken Sie auf den Globus ).
+     Doppelklicken Sie auf diesem Computerbildschirm auf das rote Filius-Symbol oben links auf dem Desktop. Oder gehen Sie auf diesem Computerbildschirm zum Anwendungsmenü oben links auf dem Bildschirm und wählen Sie Bildung -> Filius. Das Filius-Programm wird nun gestartet.
+     Möchten Sie Filius-Netzwerke für die spätere Verwendung speichern? Tun Sie dies im Ordner „Filius-Dateien“.
+     Stellen Sie sicher, dass Sie den Arbeitsbereich an Ihr GitPod-Dashboard anheften, sonst verlieren Sie alle Ihre Dateien nach zwei Wochen Inaktivität.
 
-Veel plezier!
+Spaß haben!
 
-
-Meer informatie over Filius vind je op de site van de maker: [https://www.lernsoftware-filius.de](https://www.lernsoftware-filius.de)
+Weitere Informationen zu Filius finden Sie auf der Herstellerseite: https://www.lernsoftware-filius.de
