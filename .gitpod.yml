@@ -2,7 +2,7 @@ image:
   file: Dockerfile
 tasks:
   - command: |
-      sudo sed -i 's/# locale=en_GB/locale=en_GB/' /etc/filius/filius.ini
+      sudo sed -i 's/# locale=de_DE/locale=de_DE/' /etc/filius/filius.ini
       ln -s '/workspace/filius/filius bestanden' '/home/gitpod/filius bestanden'
       sleep 2
       ln -s '/workspace/filius/filius bestanden' '/home/gitpod/Desktop/filius bestanden'
