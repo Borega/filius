@@ -1,6 +1,6 @@
 # Werkomgeving Filius
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmauscollege/filius)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Borega/filius)
 
 Mit diesem Repository können Sie in GitPod mit Filius loslegen, dem Programm zum Lernen, wie Computer miteinander kommunizieren.
 
